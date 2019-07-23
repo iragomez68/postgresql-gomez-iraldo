@@ -1,1 +1,1 @@
-# postgres-gomez-iraldo homework
+# postgresql-gomez-iraldo homework
